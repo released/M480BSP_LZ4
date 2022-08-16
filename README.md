@@ -13,7 +13,7 @@ https://github.com/lz4
 
 3. modify heap size for the library
 
-![image](https://github.com/released/M480BSP_LZ4/blob/main/LZ4_HEAPMODE.jpg)	
+![image](https://github.com/released/M480BSP_LZ4/blob/main/heap_size.jpg)	
 
 4. 4 demos , 1 with ram data , 3 with const data in flash , to compress and decompress data
 
